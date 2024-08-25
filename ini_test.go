@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/saffage/ini"
+	"github.com/saffage/go-ini"
 )
 
 func TestSectionsOf(t *testing.T) {
